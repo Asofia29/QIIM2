@@ -1,1 +1,1 @@
-# QIIM2
+# QIIME2
